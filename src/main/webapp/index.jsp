@@ -211,7 +211,7 @@
                 <h6>
                   Price
                   <span>
-                    ₹2000
+                    Rs.2000/-
                   </span>
                 </h6>
               </div>
@@ -236,7 +236,7 @@
                 <h6>
                   Price
                   <span>
-                    ₹3000
+                    Rs.3000/-
                   </span>
                 </h6>
               </div>
@@ -261,7 +261,7 @@
                 <h6>
                   Price
                   <span>
-                    ₹1300
+                    Rs.1300/-
                   </span>
                 </h6>
               </div>
@@ -286,7 +286,7 @@
                 <h6>
                   Price
                   <span>
-                    ₹60
+                    Rs.60/-
                   </span>
                 </h6>
               </div>
@@ -311,7 +311,7 @@
                 <h6>
                   Price
                   <span>
-                    ₹100
+                    Rs.100/-
                   </span>
                 </h6>
               </div>
@@ -336,7 +336,7 @@
                 <h6>
                   Price
                   <span>
-                    ₹80
+                    Rs.80/-
                   </span>
                 </h6>
               </div>
@@ -361,7 +361,7 @@
                 <h6>
                   Price
                   <span>
-                    ₹1400
+                    Rs.1400/-
                   </span>
                 </h6>
               </div>
@@ -386,7 +386,7 @@
                 <h6>
                   Price
                   <span>
-                    ₹2500
+                    Rs.2500/-
                   </span>
                 </h6>
               </div>

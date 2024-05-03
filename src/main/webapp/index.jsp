@@ -261,7 +261,7 @@
                 <h6>
                   Price
                   <span>
-                    Rs.1300/-
+                    Rs.130/-
                   </span>
                 </h6>
               </div>
